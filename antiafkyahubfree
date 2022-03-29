@@ -2,7 +2,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local UI = Material.Load({
-     Title = "ANTI AFK yA#6260",
+     Title = "ANTI AFK 03.s#6260",
      Style = 3,
      SizeX = 200, -- Size in X
      SizeY = 300,  -- Size in Y
